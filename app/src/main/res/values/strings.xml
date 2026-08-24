@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Cesta Básica Alves</string>
+
+    <string name="nav_dashboard">Início</string>
+    <string name="nav_clientes">Clientes</string>
+    <string name="nav_cestas">Cestas</string>
+    <string name="nav_vendas">Vendas</string>
+    <string name="nav_cobranca">Cobrança</string>
+
+    <string name="dashboard_title">Cesta Básica Alves</string>
+    <string name="dashboard_total_receber">Total a receber</string>
+    <string name="dashboard_total_recebido">Total recebido</string>
+    <string name="dashboard_parcelas_atrasadas">Parcelas em atraso</string>
+    <string name="dashboard_clientes_atraso">Clientes em atraso</string>
+    <string name="dashboard_sem_atrasos">Nenhuma parcela em atraso 🎉</string>
+
+    <string name="clientes_title">Clientes</string>
+    <string name="clientes_novo">Novo cliente</string>
+    <string name="clientes_editar">Editar cliente</string>
+    <string name="clientes_vazio">Nenhum cliente cadastrado ainda.</string>
+    <string name="campo_nome">Nome</string>
+    <string name="campo_telefone">Telefone</string>
+    <string name="campo_endereco">Endereço</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+
+    <string name="cestas_title">Cestas</string>
+    <string name="cestas_nova">Nova cesta</string>
+    <string name="cestas_editar">Editar cesta</string>
+    <string name="cestas_vazio">Nenhuma cesta cadastrada ainda.</string>
+    <string name="campo_nome_cesta">Nome da cesta</string>
+    <string name="campo_descricao">Descrição (itens inclusos)</string>
+    <string name="campo_preco">Preço (R$)</string>
+    <string name="campo_preco_invalido">Informe um preço válido</string>
+
+    <string name="vendas_title">Vendas</string>
+    <string name="vendas_nova">Nova venda</string>
+    <string name="vendas_vazio">Nenhuma venda registrada ainda.</string>
+    <string name="campo_cliente">Cliente</string>
+    <string name="campo_cesta">Cesta</string>
+    <string name="campo_parcelas">Número de parcelas</string>
+    <string name="campo_data_primeira_parcela">Vencimento da 1ª parcela</string>
+    <string name="vendas_selecione_cliente">Selecione um cliente</string>
+    <string name="vendas_selecione_cesta">Selecione uma cesta</string>
+    <string name="vendas_cadastre_cliente_primeiro">Cadastre um cliente antes de registrar uma venda.</string>
+    <string name="vendas_cadastre_cesta_primeiro">Cadastre uma cesta antes de registrar uma venda.</string>
+
+    <string name="cobranca_title">Cobrança</string>
+    <string name="cobranca_filtro_todas">Todas</string>
+    <string name="cobranca_filtro_pendentes">Pendentes</string>
+    <string name="cobranca_filtro_atrasadas">Atrasadas</string>
+    <string name="cobranca_filtro_pagas">Pagas</string>
+    <string name="cobranca_vazio">Nenhuma parcela encontrada.</string>
+    <string name="cobranca_marcar_paga">Marcar como paga</string>
+    <string name="cobranca_desfazer_pagamento">Desfazer pagamento</string>
+    <string name="cobranca_parcela_numero">Parcela %1$d de %2$d</string>
+    <string name="cobranca_vencimento">Vence em %1$s</string>
+    <string name="cobranca_paga_em">Paga em %1$s</string>
+    <string name="cobranca_status_pendente">Pendente</string>
+    <string name="cobranca_status_atrasada">Atrasada</string>
+    <string name="cobranca_status_paga">Paga</string>
+
+    <string name="acao_salvar">Salvar</string>
+    <string name="acao_cancelar">Cancelar</string>
+    <string name="acao_excluir">Excluir</string>
+    <string name="acao_confirmar_exclusao">Deseja realmente excluir?</string>
+    <string name="acao_adicionar">Adicionar</string>
+</resources>
